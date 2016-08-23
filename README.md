@@ -1,5 +1,5 @@
 # md_classof
-speed 15
+speed 100
 fd 50
 rt 90 
 bk 250
